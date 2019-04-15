@@ -10,7 +10,7 @@ Reminders:
     install FlipMove 
     
     ```
-    npm i -S react-flip-move>
+    npm i -S react-flip-move
     npm install
     ```   
   
