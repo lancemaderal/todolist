@@ -8,8 +8,11 @@ UP - CSI Applicants - 18-19B
 Reminders:
   - before running, 
     install FlipMove 
-    <npm i -S react-flip-move>
-    <npm install>
+    
+    ```
+    npm i -S react-flip-move>
+    npm install
+    ```   
   
  Disclaimers 
   - unable to connect to api
